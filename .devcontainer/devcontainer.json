@@ -19,10 +19,9 @@
 	"features": {
 		"git": "os-provided"
 	},
-	"workspaceMount": "source=github-clones,target=/github-clones",
-	"workspaceFolder": "/github-clones/azure-quickstart-templates",
 	"mounts": [
 		"source=${localEnv:USERPROFILE},target=/host-home-folder,type=bind,consistency=cached",
-		"source=/var/run/docker.sock,target=/var/run/docker-host.sock,type=bind"
+		"source=/var/run/docker.sock,target=/var/run/docker-host.sock,type=bind",
+		"source=github-clones,target=/github-clones"
 	]
 }
