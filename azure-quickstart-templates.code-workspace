@@ -1,0 +1,24 @@
+{
+    "folders": [
+        {
+            "path": "./.devcontainer",
+            "name": "devcontainer"
+        },
+        {
+            "path": "/github-clones/azure-quickstart-templates",
+            "name": "All quickstart templates"
+        },
+        {
+            "path": "/github-clones/azure-quickstart-templates/application-workloads/traefik/docker-portainer-traefik-windows-vm",
+            "name": "Docker host with Portainer and Traefik"
+        },
+        {
+            "path": "/github-clones/azure-quickstart-templates/demos/aci-dynamicsnav",
+            "name": "Business Central in Azure Container Instance"
+        },
+        {
+            "path": "/github-clones/azure-quickstart-templates/quickstarts/microsoft.compute/vm-windows-ssh",
+            "name": "Windows Server VM with SSH"
+        }
+    ]
+}
