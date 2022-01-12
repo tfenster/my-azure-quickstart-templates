@@ -10,7 +10,8 @@
 		"ms-vscode.azurecli",
 		"ms-dotnettools.vscode-dotnet-runtime",
 		"ms-azuretools.vscode-bicep",
-		"eamodio.gitlens"
+		"eamodio.gitlens",
+		"msazurermtools.azurerm-vscode-tools"
 	],
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
